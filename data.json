@@ -1,0 +1,18 @@
+{
+    "creation_myths": [
+        {
+            "id": 0,
+            "location": "ancient mesopotamia",
+            "time": -1800,
+            "title": "atrahasis",
+            "source": "https://geha.paginas.ufsc.br/files/2017/04/Atrahasis.pdf"
+        },
+        {
+            "id": 1,
+            "location": "ancient mesopotamia",
+            "time": -1800,
+            "title": "enuma elish",
+            "source": "https://sacred-texts.com/ane/enuma.htm"
+        }
+    ]
+}
