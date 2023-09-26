@@ -2,17 +2,38 @@
     "creation_myths": [
         {
             "id": 0,
-            "location": "ancient mesopotamia",
+            "origin": "mesopotamia",
+            "source": "https://geha.paginas.ufsc.br/files/2017/04/Atrahasis.pdf",
             "time": -1800,
-            "title": "atrahasis",
-            "source": "https://geha.paginas.ufsc.br/files/2017/04/Atrahasis.pdf"
+            "title": "atrahasis"
         },
         {
             "id": 1,
-            "location": "ancient mesopotamia",
+            "origin": "mesopotamia",
+            "source": "https://sacred-texts.com/ane/enuma.htm",
             "time": -1800,
-            "title": "enuma elish",
-            "source": "https://sacred-texts.com/ane/enuma.htm"
+            "title": "enuma_elish"
+        },
+        {
+            "id": 2,
+            "origin": "greece",
+            "source": "https://kosmossociety.chs.harvard.edu/wp-content/uploads/2014/01/054_book_sourcebook_hesiod-theogony.pdf",
+            "time": "-800",
+            "title": "theogony"
+        },
+        {
+            "id": 3,
+            "origin": "egypt",
+            "source": "https://katherinestange.com/egypt/hymn2.htm",
+            "time": -1400,
+            "title": "the_great_hymn_to_the_aten"
+        },
+        {
+            "id": 4,
+            "origin": "maya",
+            "source": "https://www.latinamericanstudies.org/maya/Popol_Vuh.pdf",
+            "time": "1600",
+            "title": "popol_vuh"
         }
     ]
 }
