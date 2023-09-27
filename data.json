@@ -5,35 +5,110 @@
             "origin": "mesopotamia",
             "source": "https://geha.paginas.ufsc.br/files/2017/04/Atrahasis.pdf",
             "time": -1800,
-            "title": "atrahasis"
+            "title": "atrahasis",
+            "stats": {
+                "numbers": {
+                    "1": 15,
+                    "2": 10,
+                    "3": 6,
+                    "4": 2,
+                    "5": 2,
+                    "6": 2,
+                    "7": 12,
+                    "9": 2,
+                    "10": 2,
+                    "14": 1,
+                    "15": 3,
+                    "50": 2,
+                    "600": 8,
+                    "3600": 1
+                }
+            }
         },
         {
             "id": 1,
             "origin": "mesopotamia",
             "source": "https://sacred-texts.com/ane/enuma.htm",
             "time": -1800,
-            "title": "enuma_elish"
+            "title": "enuma_elish",
+            "stats": {
+                "numbers": {
+                    "1": 14,
+                    "2": 2,
+                    "3": 4,
+                    "4": 3,
+                    "6": 2,
+                    "7": 2,
+                    "9": 1,
+                    "11": 5,
+                    "12": 3,
+                    "14": 1,
+                    "50": 3,
+                    "60": 1
+                }
+            }
         },
         {
             "id": 2,
             "origin": "greece",
             "source": "https://kosmossociety.chs.harvard.edu/wp-content/uploads/2014/01/054_book_sourcebook_hesiod-theogony.pdf",
             "time": "-800",
-            "title": "theogony"
+            "title": "theogony",
+            "stats": {
+                "numbers": {
+                    "1": 51,
+                    "2": 2,
+                    "3": 4,
+                    "9": 9,
+                    "10": 5,
+                    "50": 4,
+                    "100": 4,
+                    "1000": 1
+                }
+            }
         },
         {
             "id": 3,
             "origin": "egypt",
             "source": "https://katherinestange.com/egypt/hymn2.htm",
             "time": -1400,
-            "title": "the_great_hymn_to_the_aten"
+            "title": "the_great_hymn_to_the_aten",
+            "stats": {
+                "numbers": {
+                    "1": 3,
+                    "2": 3
+                }
+            }
         },
         {
             "id": 4,
             "origin": "maya",
             "source": "https://www.latinamericanstudies.org/maya/Popol_Vuh.pdf",
             "time": "1600",
-            "title": "popol_vuh"
+            "title": "popol_vuh",
+            "stats": {
+                "numbers": {
+                    "1": 237,
+                    "2": 94,
+                    "3": 52,
+                    "4": 62,
+                    "5": 7,
+                    "6": 5,
+                    "7": 14,
+                    "8": 3,
+                    "9": 21,
+                    "10": 4,
+                    "11": 4,
+                    "12": 2,
+                    "13": 7,
+                    "14": 2,
+                    "16": 1,
+                    "17": 2,
+                    "20": 2,
+                    "100": 15,
+                    "1000": 3
+                }
+            }
         }
     ]
 }
