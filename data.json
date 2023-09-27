@@ -115,7 +115,27 @@
             "origin": "india",
             "source": "https://www.shrivedabharathi.in/resources/Documents/Rig%20Veda%20(%20PDFDrive%20).pdf",
             "time": -1250,
-            "title": "rigveda"
+            "title": "rigveda",
+            "stats": {
+                "numbers": {
+                    "1": 224,
+                    "2": 44,
+                    "3": 42,
+                    "4": 30,
+                    "5": 8,
+                    "6": 5,
+                    "7": 29,
+                    "8": 3,
+                    "9": 2,
+                    "10": 9,
+                    "12": 5,
+                    "13": 1,
+                    "20": 1,
+                    "60": 1,
+                    "100": 14,
+                    "1000": 11
+                }
+            }
         }
     ]
 }
