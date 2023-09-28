@@ -213,6 +213,24 @@
                     "30000": 1
                 }
             }
+        },
+        {
+            "id": 9,
+            "origin": "mesopotamia",
+            "source": "https://static1.squarespace.com/static/520f9c9be4b0210b06eba019/t/6078aacb9a701e550b59c2ec/1618520782012/descent-of-inanna1.pdf",
+            "time": -1800,
+            "title": "the_descent_of_inanna",
+            "stats": {
+                "numbers": {
+                    "1": 10,
+                    "2": 1,
+                    "3": 3,
+                    "4": 1,
+                    "5": 1,
+                    "6": 1,
+                    "7": 6
+                }
+            }
         }
     ]
 }
