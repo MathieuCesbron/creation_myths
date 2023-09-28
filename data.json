@@ -197,6 +197,22 @@
                     "1000000": 2
                 }
             }
+        },
+        {
+            "id": 8,
+            "origin": "china",
+            "source": "https://www.khanacademy.org/humanities/big-history-project/what-is-big-history/origin-stories/a/origin-story-china#:~:text=In%20the%20beginning%20was%20a,opposites%2C%20including%20Earth%20and%20sky.",
+            "time": 200,
+            "title": "pan_gu_and_the_egg_of_the_world",
+            "stats": {
+                "numbers": {
+                    "1": 1,
+                    "5": 1,
+                    "10": 1,
+                    "18000": 1,
+                    "30000": 1
+                }
+            }
         }
     ]
 }
