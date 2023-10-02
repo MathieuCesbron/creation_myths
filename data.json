@@ -245,7 +245,7 @@
             }
         },
         {
-            "id": "11",
+            "id": 11,
             "origin": "america",
             "source": "https://www.billstifler.org/myth/files/2D-001-06-zuni_creation.htm",
             "time": null,
@@ -263,7 +263,7 @@
             }
         },
         {
-            "id": "12",
+            "id": 12,
             "origin": "greece",
             "source": "https://uruk-warka.dk/news/2020%20different/18.pdf",
             "time": -800,
@@ -277,7 +277,7 @@
             }
         },
         {
-            "id": "13",
+            "id": 13,
             "origin": "persia",
             "source": "http://www.avesta.org/mp/bundahis.html",
             "time": 900,
