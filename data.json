@@ -119,7 +119,7 @@
             "title": "rigveda",
             "stats": {
                 "numbers": {
-                    "1": 224,
+                    "1": 222,
                     "2": 44,
                     "3": 42,
                     "4": 30,
@@ -241,6 +241,24 @@
             "stats": {
                 "numbers": {
                     "1": 19
+                }
+            }
+        },
+        {
+            "id": "11",
+            "origin": "america",
+            "source": "https://www.billstifler.org/myth/files/2D-001-06-zuni_creation.htm",
+            "time": null,
+            "title": "zuni_creation_myth",
+            "stats": {
+                "numbers": {
+                    "1": 20,
+                    "2": 8,
+                    "3": 1,
+                    "4": 5,
+                    "6": 2,
+                    "7": 1,
+                    "8": 1
                 }
             }
         }
