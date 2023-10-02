@@ -261,6 +261,20 @@
                     "8": 1
                 }
             }
+        },
+        {
+            "id": "12",
+            "origin": "greece",
+            "source": "https://uruk-warka.dk/news/2020%20different/18.pdf",
+            "time": -800,
+            "title": "greek_creation_myth",
+            "stats": {
+                "numbers": {
+                    "1": 16,
+                    "2": 1,
+                    "1000": 1
+                }
+            }
         }
     ]
 }
