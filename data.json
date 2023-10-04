@@ -459,6 +459,204 @@
                     "4": 3
                 }
             }
+        },
+        {
+            "id": 23,
+            "origin": "apache",
+            "source": "http://railsback.org/CS/CSCreation&Emergence.html",
+            "time": null,
+            "title": "apache",
+            "stats": {
+                "numbers": {
+                    "1": 8,
+                    "2": 1,
+                    "4": 7
+                }
+            }
+        },
+        {
+            "id": 24,
+            "origin": "arandan",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "time": null,
+            "title": "arandan",
+            "stats": {
+                "numbers": {
+                    "1": 2,
+                    "2": 1,
+                    "3": 1
+                }
+            }
+        },
+        {
+            "id": 25,
+            "origin": "araphao",
+            "source": "https://wyominglegends.wordpress.com/2014/10/25/arapaho-creation-story/",
+            "time": null,
+            "title": "araphao",
+            "stats": {
+                "numbers": {
+                    "2": 2,
+                    "3": 1,
+                    "4": 5,
+                    "5": 1,
+                    "6": 1,
+                    "7": 3
+                }
+            }
+        },
+        {
+            "id": 26,
+            "origin": "arikara",
+            "source": "https://aisri.indiana.edu/research/editorial/gilmore/arikara_origin_myth.pdf",
+            "time": null,
+            "title": "arikara",
+            "stats": {
+                "numbers": {
+                    "1": 2,
+                    "2": 3
+                }
+            }
+        },
+        {
+            "id": 27,
+            "origin": "ashanti",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "time": null,
+            "title": "ashanti",
+            "stats": {
+                "numbers": {
+                    "1": 1
+                }
+            }
+        },
+        {
+            "id": 28,
+            "origin": "assiniboine",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "time": null,
+            "title": "assiniboine",
+            "stats": {
+                "numbers": {
+                    "7": 2
+                }
+            }
+        },
+        {
+            "id": 29,
+            "origin": "assyrian",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "time": null,
+            "title": "assyrian",
+            "stats": {
+                "numbers": {
+                    "1": 1
+                }
+            }
+        },
+        {
+            "id": 30,
+            "origin": "aymaran",
+            "source": "https://theamericasbythesisterwives.weebly.com/the-creation-tiahuanacoaymara-bolivia.html",
+            "time": null,
+            "title": "aymaran",
+            "stats": {
+                "numbers": {
+                    "1": 1,
+                    "4": 1
+                }
+            }
+        },
+        {
+            "id": 31,
+            "origin": "aztec",
+            "source": "https://mhcc.pressbooks.pub/app/uploads/sites/28/2021/02/ENG250_AztecCreationMyth.pdf",
+            "time": null,
+            "title": "aztec",
+            "stats": {
+                "numbers": {
+                    "1": 25,
+                    "2": 7,
+                    "3": 5,
+                    "4": 10,
+                    "5": 5
+                }
+            }
+        },
+        {
+            "id": 32,
+            "origin": "enuma elish",
+            "source": "https://sacred-texts.com/ane/enuma.htm",
+            "time": -1800,
+            "title": "babylonian",
+            "stats": {
+                "numbers": {
+                    "1": 6,
+                    "2": 2,
+                    "3": 2,
+                    "4": 4,
+                    "6": 1,
+                    "7": 3,
+                    "11": 5,
+                    "12": 1,
+                    "14": 1,
+                    "15": 1,
+                    "50": 2
+                }
+            }
+        },
+        {
+            "id": 33,
+            "origin": "bagobo",
+            "source": "https://sites.pitt.edu/~dash/creation-phil.html#:~:text=Bagobo%20(Mindanao),good%20place%20to%20live%20in.",
+            "time": null,
+            "title": "bagobo",
+            "stats": {
+                "numbers": {
+                    "1": 2,
+                    "2": 2
+                }
+            }
+        },
+        {
+            "id": 34,
+            "origin": "baltic",
+            "source": "https://www.reddit.com/r/mythology/comments/pi9xt0/the_ancient_baltic_creation_myth/",
+            "time": null,
+            "title": "baltic",
+            "stats": {
+                "numbers": {
+                    "1": 1,
+                    "1000": 1
+                }
+            }
+        },
+        {
+            "id": 35,
+            "origin": "baluba",
+            "source": "https://religion-documented.fandom.com/wiki/Baluba_Creation_Myth",
+            "time": null,
+            "title": "baluba",
+            "stats": {
+                "numbers": {
+                    "2": 3,
+                    "4": 1
+                }
+            }
+        },
+        {
+            "id": 36,
+            "origin": "bambara",
+            "source": "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803125345517",
+            "time": null,
+            "title": "bambara",
+            "stats": {
+                "numbers": {
+                    "1": 2,
+                    "3": 1,
+                    "7": 4
+                }
+            }
         }
     ]
 }
