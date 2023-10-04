@@ -659,6 +659,117 @@
                     "59": 1
                 }
             }
+        },
+        {
+            "id": 37,
+            "origin": "banks islands",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "time": null,
+            "title": "banks_islands",
+            "stats": {
+                "numbers": {
+                    "1": 4,
+                    "2": 1,
+                    "6": 4,
+                    "11": 1
+                }
+            }
+        },
+        {
+            "id": 38,
+            "origin": "basonge",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "time": null,
+            "title": "basonge",
+            "stats": {
+                "numbers": {}
+            }
+        },
+        {
+            "id": 39,
+            "origin": "batak",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "time": null,
+            "title": "batak",
+            "stats": {
+                "numbers": {
+                    "1": 3,
+                    "3": 2
+                }
+            }
+        },
+        {
+            "id": 40,
+            "origin": "birhor",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "time": null,
+            "title": "birhor",
+            "stats": {
+                "numbers": {}
+            }
+        },
+        {
+            "id": 41,
+            "origin": "blackfoot",
+            "source": "https://sites.pitt.edu/~dash/blkftcreation.html",
+            "time": null,
+            "title": "blackfoot",
+            "stats": {
+                "numbers": {
+                    "1": 12,
+                    "2": 2,
+                    "3": 1,
+                    "4": 5,
+                    "10": 1,
+                    "30": 1
+                }
+            }
+        },
+        {
+            "id": 42,
+            "origin": "bloods",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "time": null,
+            "title": "bloods",
+            "stats": {
+                "numbers": {
+                    "1": 1
+                }
+            }
+        },
+        {
+            "id": 43,
+            "origin": "bon",
+            "source": "https://www.dharmawheel.net/viewtopic.php?p=445131&sid=ce203c8d14cd6529fc929e9bec48cafb#p445131",
+            "time": null,
+            "title": "bon",
+            "stats": {
+                "numbers": {
+                    "1": 1,
+                    "2": 1,
+                    "3": 4,
+                    "4": 1,
+                    "5": 2,
+                    "7": 2,
+                    "8": 1,
+                    "10": 1,
+                    "60": 1,
+                    "100": 2,
+                    "1000": 2
+                }
+            }
+        },
+        {
+            "id": 44,
+            "origin": "boshongo",
+            "source": "https://www.gateway-africa.com/stories/Boshongo_Creation_Myth.html",
+            "time": null,
+            "title": "boshongo",
+            "stats": {
+                "numbers": {
+                    "1": 2
+                }
+            }
         }
     ]
 }
