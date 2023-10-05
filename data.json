@@ -770,6 +770,112 @@
                     "1": 2
                 }
             }
+        },
+        {
+            "id": 45,
+            "origin": "buddhist",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "time": -100,
+            "title": "buddhist",
+            "stats": {
+                "numbers": {}
+            }
+        },
+        {
+            "id": 46,
+            "origin": "bulu",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "time": null,
+            "title": "bulu",
+            "stats": {
+                "numbers": {
+                    "1": 1
+                }
+            }
+        },
+        {
+            "id": 47,
+            "origin": "buriat",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "time": null,
+            "title": "buriat",
+            "stats": {
+                "numbers": {
+                    "1": 1,
+                    "2": 1
+                }
+            }
+        },
+        {
+            "id": 48,
+            "origin": "bushmen",
+            "source": "https://www.cs.williams.edu/~lindsey/myths/myths_14.html#:~:text=First%20Kaang%20created%20a%20wondrous,first%20man%20up%20the%20hole.",
+            "time": null,
+            "title": "bushmen",
+            "stats": {
+                "numbers": {
+                    "1": 7,
+                    "2": 1
+                }
+            }
+        },
+        {
+            "id": 49,
+            "origin": "cahto",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "time": "null",
+            "title": "cahto",
+            "stats": {
+                "numbers": {
+                    "1": 1,
+                    "4": 1
+                }
+            }
+        },
+        {
+            "id": 50,
+            "origin": "celtic",
+            "source": "https://ochsmrsg.weebly.com/uploads/1/4/9/4/14949746/celticcreationmyth__1__1.pdf",
+            "time": null,
+            "title": "celtic",
+            "stats": {
+                "numbers": {
+                    "1": 9,
+                    "2": 1,
+                    "3": 1
+                }
+            }
+        },
+        {
+            "id": 51,
+            "origin": "ceram",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "time": null,
+            "title": "ceram",
+            "stats": {
+                "numbers": {
+                    "1": 6,
+                    "2": 1,
+                    "3": 1,
+                    "9": 11
+                }
+            }
+        },
+        {
+            "id": 52,
+            "origin": "cherokee",
+            "source": "https://fscj.pressbooks.pub/ushistory/chapter/cherokee-creation-myth/",
+            "time": null,
+            "title": "cherokee",
+            "stats": {
+                "numbers": {
+                    "1": 12,
+                    "2": 1,
+                    "3": 1,
+                    "4": 2,
+                    "7": 6
+                }
+            }
         }
     ]
 }
