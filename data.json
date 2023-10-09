@@ -1064,6 +1064,71 @@
                     "2": 1
                 }
             }
+        },
+        {
+            "id": 87,
+            "origin": "ijaw",
+            "source": "https://woyingi.wordpress.com/about-woyingi/an-ijaw-story-journey-to-the-presence-of-woyingi/",
+            "title": "ijaw",
+            "stats": {
+                "numbers": {
+                    "1": 45,
+                    "2": 9,
+                    "7": 1,
+                    "10": 1
+                }
+            }
+        },
+        {
+            "id": 88,
+            "origin": "inca",
+            "source": "https://woyingi.wordpress.com/about-woyingi/an-ijaw-story-journey-to-the-presence-of-woyingi/",
+            "title": "inca",
+            "stats": {
+                "numbers": {
+                    "1": 9,
+                    "2": 2
+                }
+            }
+        },
+        {
+            "id": 89,
+            "origin": "indian",
+            "source": "https://www.shrivedabharathi.in/resources/Documents/Rig%20Veda%20(%20PDFDrive%20).pdf",
+            "title": "rigveda",
+            "time": -1250,
+            "stats": {
+                "numbers": {
+                    "1": 222,
+                    "2": 44,
+                    "3": 41,
+                    "4": 30,
+                    "5": 8,
+                    "6": 5,
+                    "7": 27,
+                    "8": 3,
+                    "9": 2,
+                    "10": 9,
+                    "12": 5,
+                    "13": 1,
+                    "100": 14,
+                    "107": 1,
+                    "360": 1,
+                    "720": 1,
+                    "1000": 15
+                }
+            }
+        },
+        {
+            "id": 90,
+            "origin": "inupiat",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "inupiat",
+            "stats": {
+                "numbers": {
+                    "1": 3
+                }
+            }
         }
     ]
 }
