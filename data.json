@@ -990,6 +990,80 @@
                     "7": 2
                 }
             }
+        },
+        {
+            "id": 82,
+            "origin": "haida",
+            "source": "https://www.historymuseum.ca/history-hall/origins/_media/Creation-of-Haidagwaii-EN.pdf",
+            "title": "haida",
+            "stats": {
+                "numbers": {
+                    "1": 6,
+                    "2": 3,
+                    "3": 1,
+                    "5": 1
+                }
+            }
+        },
+        {
+            "id": 83,
+            "origin": "hawaiian",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "hawaiian",
+            "stats": {
+                "numbers": {
+                    "1": 1
+                }
+            }
+        },
+        {
+            "id": 84,
+            "origin": "hopi",
+            "source": "https://ochsmrsg.weebly.com/uploads/1/4/9/4/14949746/hopicreationmyth_1.pdf",
+            "title": "hopi",
+            "stats": {
+                "numbers": {
+                    "1": 7,
+                    "2": 3,
+                    "3": 1,
+                    "4": 9,
+                    "9": 2
+                }
+            }
+        },
+        {
+            "id": 84,
+            "origin": "hottentot",
+            "source": "https://ochsmrsg.weebly.com/uploads/1/4/9/4/14949746/hopicreationmyth_1.pdf",
+            "title": "hottentot",
+            "stats": {
+                "numbers": {
+                    "1": 2
+                }
+            }
+        },
+        {
+            "id": 85,
+            "origin": "hungarian",
+            "source": "https://www.crystalinks.com/hungarycreation.html",
+            "title": "hungarian",
+            "stats": {
+                "numbers": {
+                    "1000": 2
+                }
+            }
+        },
+        {
+            "id": 86,
+            "origin": "huron",
+            "source": "https://www.aaanativearts.com/wyandotte-huron-creation-legend",
+            "title": "huron",
+            "stats": {
+                "numbers": {
+                    "1": 11,
+                    "2": 1
+                }
+            }
         }
     ]
 }
