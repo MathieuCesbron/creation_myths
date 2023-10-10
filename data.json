@@ -1129,6 +1129,101 @@
                     "1": 3
                 }
             }
+        },
+        {
+            "id": 91,
+            "origin": "ipurina",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "ipurina",
+            "stats": {
+                "numbers": {}
+            }
+        },
+        {
+            "id": 92,
+            "origin": "irish",
+            "source": "https://ochsmrsg.weebly.com/uploads/1/4/9/4/14949746/celticcreationmyth__1__1.pdf",
+            "title": "irish",
+            "stats": {
+                "numbers": {
+                    "1": 9,
+                    "2": 1,
+                    "3": 1
+                }
+            }
+        },
+        {
+            "id": 93,
+            "origin": "islamic",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "islamic",
+            "stats": {
+                "numbers": {
+                    "1": 2
+                }
+            }
+        },
+        {
+            "id": 94,
+            "origin": "jain",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "jain",
+            "stats": {
+                "numbers": {
+                    "1": 4
+                }
+            }
+        },
+        {
+            "id": 95,
+            "origin": "japanese",
+            "source": "https://www.worldhistory.org/Izanami_and_Izanagi/",
+            "title": "japanese",
+            "stats": {
+                "numbers": {
+                    "1": 5,
+                    "2": 3,
+                    "7": 2,
+                    "8": 2,
+                    "12": 2,
+                    "800": 1
+                }
+            }
+        },
+        {
+            "id": 96,
+            "origin": "jivaro",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "jivaro",
+            "stats": {
+                "numbers": {
+                    "1": 3
+                }
+            }
+        },
+        {
+            "id": 97,
+            "origin": "joshua",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "joshua",
+            "stats": {
+                "numbers": {
+                    "1": 5,
+                    "2": 2,
+                    "3": 1,
+                    "5": 1,
+                    "10": 1
+                }
+            }
+        },
+        {
+            "id": 98,
+            "origin": "kagaba",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "kagaba",
+            "stats": {
+                "numbers": {}
+            }
         }
     ]
 }
