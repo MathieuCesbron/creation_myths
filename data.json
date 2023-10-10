@@ -1224,6 +1224,76 @@
             "stats": {
                 "numbers": {}
             }
+        },
+        {
+            "id": 99,
+            "origin": "kakadu",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "kakadu",
+            "stats": {
+                "numbers": {}
+            }
+        },
+        {
+            "id": 100,
+            "origin": "kikuyu",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "kikuyu",
+            "stats": {
+                "numbers": {
+                    "9": 7,
+                    "10": 1
+                }
+            }
+        },
+        {
+            "id": 101,
+            "origin": "kiowa",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "kiowa",
+            "stats": {
+                "numbers": {
+                    "1": 2,
+                    "2": 3
+                }
+            }
+        },
+        {
+            "id": 101,
+            "origin": "kodiak",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "kodiak",
+            "stats": {
+                "numbers": {
+                    "1": 1
+                }
+            }
+        },
+        {
+            "id": 102,
+            "origin": "kokowarra",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "kokowarra",
+            "stats": {
+                "numbers": {
+                    "1": 1
+                }
+            }
+        },
+        {
+            "id": 103,
+            "origin": "kono",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "kono",
+            "stats": {
+                "numbers": {
+                    "1": 3,
+                    "2": 1,
+                    "3": 2,
+                    "4": 2,
+                    "14": 1
+                }
+            }
         }
     ]
 }
