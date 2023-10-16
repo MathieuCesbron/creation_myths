@@ -2006,6 +2006,150 @@
                     "1": 1
                 }
             }
+        },
+        {
+            "id": 142,
+            "origin": "pima",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "pima",
+            "stats": {
+                "numbers": {}
+            }
+        },
+        {
+            "id": 143,
+            "origin": "polynesian",
+            "source": "https://www.scilt.org.uk/portals/24/passeport2/educationscotland/Images/PolynesianCreationstory_tcm4-730167.pdf",
+            "title": "polynesian",
+            "stats": {
+                "numbers": {
+                    "1": 1,
+                    "6": 2
+                }
+            }
+        },
+        {
+            "id": 144,
+            "origin": "pomo",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "pomo",
+            "stats": {
+                "numbers": {
+                    "1": 6,
+                    "2": 2,
+                    "4": 4,
+                    "8": 1
+                }
+            }
+        },
+        {
+            "id": 145,
+            "origin": "pueblo",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "pueblo",
+            "stats": {
+                "numbers": {
+                    "1": 1
+                }
+            }
+        },
+        {
+            "id": 146,
+            "origin": "roman",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "roman",
+            "stats": {
+                "numbers": {
+                    "1": 3
+                }
+            }
+        },
+        {
+            "id": 147,
+            "origin": "romanian",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "romanian",
+            "stats": {
+                "numbers": {}
+            }
+        },
+        {
+            "id": 148,
+            "origin": "salinan",
+            "source": "https://courses.lumenlearning.com/wm-ushistory1/chapter/primary-source-native-american-creation-stories/",
+            "title": "salinan",
+            "stats": {
+                "numbers": {
+                    "1": 1
+                }
+            }
+        },
+        {
+            "id": 149,
+            "origin": "salishan",
+            "source": "https://salishtribe.wordpress.com/salish-culture/the-salish-creation-story/",
+            "title": "salishan",
+            "stats": {
+                "numbers": {
+                    "1": 3
+                }
+            }
+        },
+        {
+            "id": 150,
+            "origin": "samoan",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "samoan",
+            "stats": {
+                "numbers": {
+                    "1": 1,
+                    "9": 1
+                }
+            }
+        },
+        {
+            "id": 151,
+            "origin": "samoyed",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "samoyed",
+            "stats": {
+                "numbers": {}
+            }
+        },
+        {
+            "id": 152,
+            "origin": "san_cristobal",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "san_cristobal",
+            "stats": {
+                "numbers": {
+                    "4": 2
+                }
+            }
+        },
+        {
+            "id": 153,
+            "origin": "seneca",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "seneca",
+            "stats": {
+                "numbers": {
+                    "1": 1,
+                    "2": 1
+                }
+            }
+        },
+        {
+            "id": 154,
+            "origin": "shilluk",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "shilluk",
+            "stats": {
+                "numbers": {
+                    "1": 2,
+                    "2": 1
+                }
+            }
         }
     ]
 }
