@@ -2150,6 +2150,210 @@
                     "2": 1
                 }
             }
+        },
+        {
+            "id": 155,
+            "origin": "siberian",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "siberian",
+            "stats": {
+                "numbers": {
+                    "2": 1
+                }
+            }
+        },
+        {
+            "id": 156,
+            "origin": "siberian_tartar",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "siberian_tartar",
+            "stats": {
+                "numbers": {}
+            }
+        },
+        {
+            "id": 157,
+            "origin": "sikh",
+            "source": "https://www.bbc.co.uk/bitesize/guides/znnmtv4/revision/3#:~:text=Sikhs%20believe%20that%20before%20the,responsible%20for%20everything%20in%20it.",
+            "title": "sikh",
+            "stats": {
+                "numbers": {
+                    "3": 1,
+                    "7": 1
+                }
+            }
+        },
+        {
+            "id": 158,
+            "origin": "sioux",
+            "source": "https://chnm.gmu.edu/exploring/pre_18thcentury/creationstories/pop_sioux.html",
+            "title": "sioux",
+            "stats": {
+                "numbers": {
+                    "1": 4,
+                    "2": 4,
+                    "3": 9,
+                    "4": 9
+                }
+            }
+        },
+        {
+            "id": 159,
+            "origin": "skagit",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "skagit",
+            "stats": {
+                "numbers": {
+                    "1": 2,
+                    "3": 1,
+                    "4": 1
+                }
+            }
+        },
+        {
+            "id": 160,
+            "origin": "snohomish",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "snohomish",
+            "stats": {
+                "numbers": {
+                    "1": 1,
+                    "2": 1,
+                    "3": 1,
+                    "4": 2,
+                    "6": 1
+                }
+            }
+        },
+        {
+            "id": 161,
+            "origin": "sumu",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "sumu",
+            "stats": {
+                "numbers": {}
+            }
+        },
+        {
+            "id": 162,
+            "origin": "swahili",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "swahili",
+            "stats": {
+                "numbers": {
+                    "1": 4,
+                    "7": 1,
+                    "8": 1
+                }
+            }
+        },
+        {
+            "id": 163,
+            "origin": "tahitian",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "tahitian",
+            "stats": {
+                "numbers": {
+                    "1": 2
+                }
+            }
+        },
+        {
+            "id": 164,
+            "origin": "talmudic",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "talmudic",
+            "stats": {
+                "numbers": {
+                    "1": 4,
+                    "2": 1,
+                    "3": 1,
+                    "4": 2,
+                    "5": 1,
+                    "6": 1,
+                    "20": 1,
+                    "22": 1
+                }
+            }
+        },
+        {
+            "id": 165,
+            "origin": "tantric",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "tantric",
+            "stats": {
+                "numbers": {
+                    "1": 1
+                }
+            }
+        },
+        {
+            "id": 166,
+            "origin": "tewa",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "tewa",
+            "stats": {
+                "numbers": {
+                    "2": 1
+                }
+            }
+        },
+        {
+            "id": 167,
+            "origin": "thompson_indians",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "thompson_indians",
+            "stats": {
+                "numbers": {
+                    "1": 15,
+                    "2": 3,
+                    "3": 2,
+                    "4": 2,
+                    "5": 5
+                }
+            }
+        },
+        {
+            "id": 168,
+            "origin": "tierra_del_fuego",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "tierra_del_fuego",
+            "stats": {
+                "numbers": {
+                    "1": 1
+                }
+            }
+        },
+        {
+            "id": 169,
+            "origin": "tlingit",
+            "source": "https://www.indigenouspeople.net/creatlingit.htm",
+            "title": "tlingit",
+            "stats": {
+                "numbers": {
+                    "1": 44,
+                    "2": 4,
+                    "3": 1,
+                    "4": 1,
+                    "7": 1,
+                    "8": 1
+                }
+            }
+        },
+        {
+            "id": 170,
+            "origin": "toltec",
+            "source": "https://genius.com/Donna-rosenberg-the-creation-cycle-toltec-aztec-annotated",
+            "title": "toltec",
+            "stats": {
+                "numbers": {
+                    "1": 19,
+                    "2": 7,
+                    "3": 3,
+                    "4": 8,
+                    "5": 5
+                }
+            }
         }
     ]
 }
