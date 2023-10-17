@@ -2431,6 +2431,108 @@
                     "2": 2
                 }
             }
+        },
+        {
+            "id": 178,
+            "origin": "uitoto",
+            "source": "https://sacred-texts.com/nam/sa/cau.htm",
+            "title": "uitoto",
+            "stats": {
+                "numbers": {}
+            }
+        },
+        {
+            "id": 179,
+            "origin": "ute",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "ute",
+            "stats": {
+                "numbers": {}
+            }
+        },
+        {
+            "id": 180,
+            "origin": "vietnamese",
+            "source": "https://www.haivenu-vietnam.com/vietnam-culture-myths.htm",
+            "title": "vietnamese",
+            "stats": {
+                "numbers": {
+                    "1": 2,
+                    "2": 1,
+                    "100": 2
+                }
+            }
+        },
+        {
+            "id": 181,
+            "origin": "wahungwe",
+            "source": "https://www.haivenu-vietnam.com/vietnam-culture-myths.htm",
+            "title": "wahungwe",
+            "stats": {
+                "numbers": {
+                    "1": 7,
+                    "2": 4,
+                    "4": 2,
+                    "5": 1,
+                    "8": 1
+                }
+            }
+        },
+        {
+            "id": 182,
+            "origin": "wapangwa",
+            "source": "https://www.haivenu-vietnam.com/vietnam-culture-myths.htm",
+            "title": "wapangwa",
+            "stats": {
+                "numbers": {
+                    "1": 2
+                }
+            }
+        },
+        {
+            "id": 183,
+            "origin": "welsh",
+            "source": "https://www.gutenberg.org/files/5160/5160-h/5160-h.htm",
+            "title": "mabinogion",
+            "time": 1350,
+            "stats": {
+                "numbers": {
+                    "1": 457,
+                    "2": 207,
+                    "3": 181,
+                    "4": 46,
+                    "5": 15,
+                    "6": 11,
+                    "7": 50,
+                    "8": 3,
+                    "9": 25,
+                    "10": 4,
+                    "11": 2,
+                    "12": 12,
+                    "13": 6,
+                    "14": 1,
+                    "16": 1,
+                    "18": 1,
+                    "21": 3,
+                    "23": 1,
+                    "24": 12,
+                    "29": 1,
+                    "30": 1,
+                    "32": 1,
+                    "40": 1,
+                    "48": 1,
+                    "50": 3,
+                    "60": 1,
+                    "100": 17,
+                    "200": 2,
+                    "300": 11,
+                    "500": 1,
+                    "566": 1,
+                    "900": 1,
+                    "1000": 2,
+                    "3000": 1
+                }
+            }
         }
     ]
 }
