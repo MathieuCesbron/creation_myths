@@ -3,6 +3,7 @@
         {
             "id": 0,
             "origin": "achomawi",
+            "country": "america",
             "source": "https://sacred-texts.com/nam/ca/aat/aat12.htm",
             "time": null,
             "title": "achomawi",
@@ -22,6 +23,7 @@
             "source": "https://press.rebus.community/openamlit/chapter/origin-myth-of-the-acoma/",
             "time": null,
             "title": "acoma",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 16,
@@ -36,6 +38,7 @@
             "origin": "ainu",
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
+            "country": "japan",
             "title": "ainu",
             "stats": {
                 "numbers": {}
@@ -46,6 +49,7 @@
             "origin": "algonquin",
             "source": "https://mysteriesofcanada.com/first-nations/algonquin-indian/",
             "time": null,
+            "country": "canada",
             "title": "algonquin",
             "stats": {
                 "numbers": {
@@ -58,6 +62,7 @@
             "origin": "altaic",
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
+            "country": "russia",
             "title": "altaic",
             "stats": {
                 "numbers": {
@@ -71,6 +76,7 @@
             "origin": "anishinabe",
             "source": "https://ied.sd61.bc.ca/wp-content/uploads/sites/112/2019/02/Ojibway-Anishinabe_Creation_Story.pdf",
             "time": null,
+            "country": "canada",
             "title": "anishinabe",
             "stats": {
                 "numbers": {
@@ -84,6 +90,7 @@
             "origin": "apache",
             "source": "http://railsback.org/CS/CSCreation&Emergence.html",
             "time": null,
+            "country": "america",
             "title": "apache",
             "stats": {
                 "numbers": {
@@ -99,6 +106,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "arandan",
+            "country": "india",
             "stats": {
                 "numbers": {
                     "1": 2,
@@ -113,6 +121,7 @@
             "source": "https://wyominglegends.wordpress.com/2014/10/25/arapaho-creation-story/",
             "time": null,
             "title": "araphao",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -131,6 +140,7 @@
             "source": "https://aisri.indiana.edu/research/editorial/gilmore/arikara_origin_myth.pdf",
             "time": null,
             "title": "arikara",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 2,
@@ -144,6 +154,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "ashanti",
+            "country": "ghana",
             "stats": {
                 "numbers": {
                     "1": 1
@@ -156,6 +167,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "assiniboine",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "7": 2
@@ -168,6 +180,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "assyrian",
+            "country": "iraq",
             "stats": {
                 "numbers": {
                     "1": 1
@@ -180,6 +193,7 @@
             "source": "https://theamericasbythesisterwives.weebly.com/the-creation-tiahuanacoaymara-bolivia.html",
             "time": null,
             "title": "aymaran",
+            "country": "bolivia",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -193,6 +207,7 @@
             "source": "https://mhcc.pressbooks.pub/app/uploads/sites/28/2021/02/ENG250_AztecCreationMyth.pdf",
             "time": null,
             "title": "aztec",
+            "country": "mexico",
             "stats": {
                 "numbers": {
                     "1": 29,
@@ -209,6 +224,7 @@
             "source": "https://sacred-texts.com/ane/enuma.htm",
             "time": -1800,
             "title": "babylonian",
+            "country": "iraq",
             "stats": {
                 "numbers": {
                     "1": 11,
@@ -231,6 +247,7 @@
             "source": "https://sites.pitt.edu/~dash/creation-phil.html#:~:text=Bagobo%20(Mindanao),good%20place%20to%20live%20in.",
             "time": null,
             "title": "bagobo",
+            "country": "philippines",
             "stats": {
                 "numbers": {
                     "1": 2,
@@ -244,6 +261,7 @@
             "source": "https://www.reddit.com/r/mythology/comments/pi9xt0/the_ancient_baltic_creation_myth/",
             "time": null,
             "title": "baltic",
+            "country": "latvia",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -257,6 +275,7 @@
             "source": "https://religion-documented.fandom.com/wiki/Baluba_Creation_Myth",
             "time": null,
             "title": "baluba",
+            "country": "congo",
             "stats": {
                 "numbers": {
                     "2": 4,
@@ -270,6 +289,7 @@
             "source": "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803125345517",
             "time": null,
             "title": "bambara",
+            "country": "mali",
             "stats": {
                 "numbers": {
                     "1": 2,
@@ -285,6 +305,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "banks_islands",
+            "country": "canada",
             "stats": {
                 "numbers": {
                     "1": 4,
@@ -300,6 +321,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "basonge",
+            "country": "congo",
             "stats": {
                 "numbers": {}
             }
@@ -310,6 +332,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "batak",
+            "country": "philippines",
             "stats": {
                 "numbers": {
                     "1": 3,
@@ -323,6 +346,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "birhor",
+            "country": "india",
             "stats": {
                 "numbers": {}
             }
@@ -333,6 +357,7 @@
             "source": "https://sites.pitt.edu/~dash/blkftcreation.html",
             "time": null,
             "title": "blackfoot",
+            "country": "canada",
             "stats": {
                 "numbers": {
                     "1": 12,
@@ -350,6 +375,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "bloods",
+            "country": "canada",
             "stats": {
                 "numbers": {
                     "1": 1
@@ -362,6 +388,7 @@
             "source": "https://www.dharmawheel.net/viewtopic.php?p=445131&sid=ce203c8d14cd6529fc929e9bec48cafb#p445131",
             "time": null,
             "title": "bon",
+            "country": "tibet",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -384,6 +411,7 @@
             "source": "https://www.gateway-africa.com/stories/Boshongo_Creation_Myth.html",
             "time": null,
             "title": "boshongo",
+            "country": "congo",
             "stats": {
                 "numbers": {
                     "1": 2
@@ -396,6 +424,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": -100,
             "title": "buddhist",
+            "country": "india",
             "stats": {
                 "numbers": {}
             }
@@ -406,6 +435,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "bulu",
+            "country": "cameroun",
             "stats": {
                 "numbers": {
                     "1": 1
@@ -418,6 +448,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "buriat",
+            "country": "russia",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -431,6 +462,7 @@
             "source": "https://www.cs.williams.edu/~lindsey/myths/myths_14.html#:~:text=First%20Kaang%20created%20a%20wondrous,first%20man%20up%20the%20hole.",
             "time": null,
             "title": "bushmen",
+            "country": "botswana",
             "stats": {
                 "numbers": {
                     "1": 7,
@@ -444,6 +476,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": "null",
             "title": "cahto",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -457,6 +490,7 @@
             "source": "https://ochsmrsg.weebly.com/uploads/1/4/9/4/14949746/celticcreationmyth__1__1.pdf",
             "time": null,
             "title": "celtic",
+            "country": "ireland",
             "stats": {
                 "numbers": {
                     "1": 9,
@@ -471,6 +505,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "ceram",
+            "country": "indonesia",
             "stats": {
                 "numbers": {
                     "1": 6,
@@ -486,6 +521,7 @@
             "source": "https://fscj.pressbooks.pub/ushistory/chapter/cherokee-creation-myth/",
             "time": null,
             "title": "cherokee",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 12,
@@ -502,6 +538,7 @@
             "source": "https://www.rif.org/sites/default/files/documents/2018/04/19/Support_Materials/G3-Her-Seven-Brothers-Medium-V2.pdf",
             "time": "null",
             "title": "cheyenne",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 7
@@ -514,6 +551,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": "null",
             "title": "chinese",
+            "country": "china",
             "stats": {
                 "numbers": {
                     "1": 2,
@@ -529,6 +567,7 @@
             "source": "https://www.khanacademy.org/humanities/big-history-project/what-is-big-history/origin-stories/a/origin-story-china#:~:text=In%20the%20beginning%20was%20a,opposites%2C%20including%20Earth%20and%20sky.",
             "time": 200,
             "title": "pan_gu_and_the_egg_of_the_world",
+            "country": "china",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -545,6 +584,7 @@
             "source": "https://www.gutenberg.org/cache/epub/8001/pg8001.html",
             "time": -1400,
             "title": "christian",
+            "country": "israel",
             "stats": {
                 "numbers": {
                     "1": 88,
@@ -633,6 +673,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "chuckchee",
+            "country": "russia",
             "stats": {
                 "numbers": {
                     "1": 3
@@ -645,6 +686,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "creek",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 2
@@ -657,6 +699,7 @@
             "source": "http://lib.lbhc.edu/index.php?q=node/84",
             "time": null,
             "title": "crow",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 2,
@@ -671,6 +714,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "cuebo",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 1
@@ -683,6 +727,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "cupeno",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 2,
@@ -696,6 +741,7 @@
             "source": "https://college.holycross.edu/projects/himalayan_cultures/2004_plans/sstidfol/pages/India_Creation_Myths.htm",
             "time": null,
             "title": "dhammai",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 5,
@@ -713,6 +759,7 @@
             "source": "https://sacred-texts.com/nam/ca/mod/mod02.htm#:~:text=When%20Tu%2Dchai%2Dpai%20made,the%20weight%20of%20the%20sky.",
             "time": null,
             "title": "dieguenos",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 3,
@@ -728,6 +775,7 @@
             "source": "https://paanluelwel.com/2019/10/02/dinka-mythology-the-legend-of-abuk-ku-garang/",
             "time": null,
             "title": "dinka",
+            "country": "sudan",
             "stats": {
                 "numbers": {
                     "1": 5
@@ -740,6 +788,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "dogon",
+            "country": "mali",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -754,6 +803,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "dyak",
+            "country": "malaysia",
             "stats": {
                 "numbers": {
                     "2": 2
@@ -766,6 +816,7 @@
             "source": "https://talkafricana.com/and-the-first-human-was-named-baatsi-the-creation-story-of-the-efe-pygmies-of-dr-congo/",
             "time": null,
             "title": "efe",
+            "country": "congo",
             "stats": {
                 "numbers": {
                     "1": 4
@@ -778,6 +829,7 @@
             "source": "https://www.khanacademy.org/humanities/big-history-project/what-is-big-history/origin-stories/a/origin-story-efik",
             "time": null,
             "title": "efik",
+            "country": "nigeria",
             "stats": {
                 "numbers": {
                     "1": 5,
@@ -791,6 +843,7 @@
             "source": "https://ochsmrsg.weebly.com/uploads/1/4/9/4/14949746/egyptiancreationmyth_1.pdf",
             "time": -1400,
             "title": "egyptian",
+            "country": "egypt",
             "stats": {
                 "numbers": {
                     "1": 12,
@@ -810,6 +863,7 @@
             "source": "https://ochsmrsg.weebly.com/uploads/1/4/9/4/14949746/egyptiancreationmyth_1.pdf",
             "time": -1400,
             "title": "the_great_hymn_to_the_aten",
+            "country": "egypt",
             "stats": {
                 "numbers": {
                     "1": 3,
@@ -824,6 +878,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "ekoi",
+            "country": "cameroun",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -837,6 +892,7 @@
             "source": "A Dictionary of Creation Myths, Leeming",
             "time": null,
             "title": "fang",
+            "country": "guinea",
             "stats": {
                 "numbers": {
                     "1": 3,
@@ -850,6 +906,7 @@
             "source": "https://www.ancient-origins.net/human-origins-folklore/creation-myth-fiji-and-serpent-god-00966",
             "time": null,
             "title": "fiji_islands",
+            "country": "fiji",
             "stats": {
                 "numbers": {
                     "1": 4,
@@ -863,6 +920,7 @@
             "source": "https://www.gutenberg.org/cache/epub/5186/pg5186-images.html",
             "time": null,
             "title": "kalevala",
+            "country": "finland",
             "stats": {
                 "numbers": {
                     "1": 334,
@@ -892,6 +950,7 @@
             "source": "https://mythopedia.com/topics/mawu-lisa",
             "time": null,
             "title": "fon",
+            "country": "benin",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -907,6 +966,7 @@
             "source": "https://africanpoems.net/gods-ancestors/creation/",
             "time": null,
             "title": "fulani",
+            "country": "nigeria",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -921,6 +981,7 @@
             "origin": "garo",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "garo",
+            "country": "india",
             "stats": {
                 "numbers": {
                     "1": 2
@@ -932,6 +993,7 @@
             "origin": "gilbert_islands",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "gilbert_islands",
+            "country": "kiribati",
             "stats": {
                 "numbers": {
                     "1": 1
@@ -943,6 +1005,7 @@
             "origin": "gnostic",
             "source": "https://gnosticismexplained.org/the-gnostic-creation-myth/",
             "title": "gnostic",
+            "country": "israel",
             "stats": {
                 "numbers": {
                     "1": 8,
@@ -961,6 +1024,7 @@
             "origin": "gond",
             "source": "https://themythologyproject.com/the-crow-the-crab-and-the-earthworm/",
             "title": "gond",
+            "country": "india",
             "stats": {
                 "numbers": {
                     "1": 2
@@ -973,6 +1037,7 @@
             "source": "https://kosmossociety.chs.harvard.edu/wp-content/uploads/2014/01/054_book_sourcebook_hesiod-theogony.pdf",
             "time": "-800",
             "title": "theogony",
+            "country": "greece",
             "stats": {
                 "numbers": {
                     "1": 51,
@@ -992,6 +1057,7 @@
             "origin": "greek",
             "source": "https://themythologyproject.com/the-crow-the-crab-and-the-earthworm/",
             "title": "pelasgian",
+            "country": "greece",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -1006,6 +1072,7 @@
             "source": "https://uruk-warka.dk/news/2020%20different/18.pdf",
             "time": -800,
             "title": "greek",
+            "country": "greece",
             "stats": {
                 "numbers": {
                     "1": 16,
@@ -1019,6 +1086,7 @@
             "origin": "guarani",
             "source": "https://www.ancient-origins.net/myths-legends-americas/gods-creation-and-legendary-beasts-guarani-002937",
             "title": "guarani",
+            "country": "paraguay",
             "stats": {
                 "numbers": {
                     "7": 2
@@ -1030,6 +1098,7 @@
             "origin": "haida",
             "source": "https://www.historymuseum.ca/history-hall/origins/_media/Creation-of-Haidagwaii-EN.pdf",
             "title": "haida",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 6,
@@ -1044,6 +1113,7 @@
             "origin": "hawaiian",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "hawaiian",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 1
@@ -1055,6 +1125,7 @@
             "origin": "hopi",
             "source": "https://ochsmrsg.weebly.com/uploads/1/4/9/4/14949746/hopicreationmyth_1.pdf",
             "title": "hopi",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 7,
@@ -1070,6 +1141,7 @@
             "origin": "hottentot",
             "source": "https://ochsmrsg.weebly.com/uploads/1/4/9/4/14949746/hopicreationmyth_1.pdf",
             "title": "hottentot",
+            "country": "namibia",
             "stats": {
                 "numbers": {
                     "1": 2
@@ -1081,6 +1153,7 @@
             "origin": "hungarian",
             "source": "https://www.crystalinks.com/hungarycreation.html",
             "title": "hungarian",
+            "country": "hungary",
             "stats": {
                 "numbers": {
                     "1000": 2
@@ -1092,6 +1165,7 @@
             "origin": "huron",
             "source": "https://www.aaanativearts.com/wyandotte-huron-creation-legend",
             "title": "huron",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 11,
@@ -1104,6 +1178,7 @@
             "origin": "ijaw",
             "source": "https://woyingi.wordpress.com/about-woyingi/an-ijaw-story-journey-to-the-presence-of-woyingi/",
             "title": "ijaw",
+            "country": "nigeria",
             "stats": {
                 "numbers": {
                     "1": 45,
@@ -1118,6 +1193,7 @@
             "origin": "inca",
             "source": "https://woyingi.wordpress.com/about-woyingi/an-ijaw-story-journey-to-the-presence-of-woyingi/",
             "title": "inca",
+            "country": "peru",
             "stats": {
                 "numbers": {
                     "1": 9,
@@ -1131,6 +1207,7 @@
             "source": "https://www.shrivedabharathi.in/resources/Documents/Rig%20Veda%20(%20PDFDrive%20).pdf",
             "title": "rigveda",
             "time": -1250,
+            "country": "india",
             "stats": {
                 "numbers": {
                     "1": 222,
@@ -1158,6 +1235,7 @@
             "origin": "inupiat",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "inupiat",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 3
@@ -1169,6 +1247,7 @@
             "origin": "ipurina",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "ipurina",
+            "country": "brazil",
             "stats": {
                 "numbers": {}
             }
@@ -1178,6 +1257,7 @@
             "origin": "irish",
             "source": "https://ochsmrsg.weebly.com/uploads/1/4/9/4/14949746/celticcreationmyth__1__1.pdf",
             "title": "irish",
+            "country": "ireland",
             "stats": {
                 "numbers": {
                     "1": 9,
@@ -1192,6 +1272,7 @@
             "source": "http://dept.cs.williams.edu/~lindsey/myths/myths_12.html",
             "time": null,
             "title": "iroquois",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 8,
@@ -1204,6 +1285,7 @@
             "origin": "islamic",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "islamic",
+            "country": "israel",
             "stats": {
                 "numbers": {
                     "1": 2
@@ -1215,6 +1297,7 @@
             "origin": "jain",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "jain",
+            "country": "india",
             "stats": {
                 "numbers": {
                     "1": 4
@@ -1226,6 +1309,7 @@
             "origin": "japanese",
             "source": "https://www.worldhistory.org/Izanami_and_Izanagi/",
             "title": "japanese",
+            "country": "japan",
             "stats": {
                 "numbers": {
                     "1": 5,
@@ -1242,6 +1326,7 @@
             "origin": "jivaro",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "jivaro",
+            "country": "ecuador",
             "stats": {
                 "numbers": {
                     "1": 3
@@ -1253,6 +1338,7 @@
             "origin": "joshua",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "joshua",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 5,
@@ -1268,6 +1354,7 @@
             "origin": "kagaba",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "kagaba",
+            "country": "colombia",
             "stats": {
                 "numbers": {}
             }
@@ -1277,6 +1364,7 @@
             "origin": "kakadu",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "kakadu",
+            "country": "autralia",
             "stats": {
                 "numbers": {}
             }
@@ -1286,6 +1374,7 @@
             "origin": "kikuyu",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "kikuyu",
+            "country": "kenya",
             "stats": {
                 "numbers": {
                     "9": 7,
@@ -1298,6 +1387,7 @@
             "origin": "kiowa",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "kiowa",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 2,
@@ -1310,6 +1400,7 @@
             "origin": "kodiak",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "kodiak",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 1
@@ -1321,6 +1412,7 @@
             "origin": "kokowarra",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "kokowarra",
+            "country": "autralia",
             "stats": {
                 "numbers": {
                     "1": 1
@@ -1332,6 +1424,7 @@
             "origin": "kono",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "kono",
+            "country": "sierra leone",
             "stats": {
                 "numbers": {
                     "1": 3,
@@ -1347,6 +1440,7 @@
             "origin": "korean",
             "source": "https://www.crystalinks.com/koreacreation.html",
             "title": "korean",
+            "country": "south korea",
             "stats": {
                 "numbers": {
                     "1": 13,
@@ -1373,6 +1467,7 @@
             "origin": "krachi",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "krachi",
+            "country": "ghana",
             "stats": {
                 "numbers": {
                     "1": 1
@@ -1384,6 +1479,7 @@
             "origin": "kukulik",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "kukulik",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 2
@@ -1395,6 +1491,7 @@
             "origin": "laguna",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "laguna",
+            "country": "america",
             "stats": {
                 "numbers": {}
             }
@@ -1404,6 +1501,7 @@
             "origin": "lao",
             "source": "https://en.wikipedia.org/wiki/Khun_Borom",
             "title": "lao",
+            "country": "laos",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -1418,6 +1516,7 @@
             "origin": "lapp",
             "source": "https://windman.se/biegolmai/",
             "title": "lapp",
+            "country": "norway",
             "stats": {
                 "numbers": {
                     "1": 4,
@@ -1430,6 +1529,7 @@
             "origin": "lenape",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "lenape",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -1442,6 +1542,7 @@
             "origin": "lugbara",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "lugbara",
+            "country": "uganda",
             "stats": {
                 "numbers": {
                     "1": 2,
@@ -1454,6 +1555,7 @@
             "origin": "luiseno",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "luiseno",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 16,
@@ -1472,6 +1574,7 @@
             "origin": "maasai",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "maasai",
+            "country": "kenya",
             "stats": {
                 "numbers": {
                     "1": 2,
@@ -1485,6 +1588,7 @@
             "origin": "maidu",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "maidu",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -1497,6 +1601,7 @@
             "origin": "malagasy",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "malagasy",
+            "country": "madagascar",
             "stats": {
                 "numbers": {
                     "1": 1
@@ -1508,6 +1613,7 @@
             "origin": "malozi",
             "source": "https://www.godchecker.com/african-mythology/NYAMBE/",
             "title": "malozi",
+            "country": "zambia",
             "stats": {
                 "numbers": {
                     "1": 2,
@@ -1521,6 +1627,7 @@
             "origin": "mandan",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "mandan",
+            "country": "iraq",
             "stats": {
                 "numbers": {
                     "1": 2,
@@ -1534,6 +1641,7 @@
             "source": "https://www.gqstimeline.com/the-mande-creation-myth/#:~:text=Mangala%20made%20two%20eleusine%20seeds,framework%20of%20the%20world's%20creation.",
             "time": 1200,
             "title": "mande",
+            "country": "mali",
             "stats": {
                 "numbers": {
                     "1": 9,
@@ -1550,6 +1658,7 @@
             "source": "https://geha.paginas.ufsc.br/files/2017/04/Atrahasis.pdf",
             "time": -1800,
             "title": "atrahasis",
+            "country": "iraq",
             "stats": {
                 "numbers": {
                     "1": 15,
@@ -1575,6 +1684,7 @@
             "source": "https://static1.squarespace.com/static/520f9c9be4b0210b06eba019/t/6078aacb9a701e550b59c2ec/1618520782012/descent-of-inanna1.pdf",
             "time": -1800,
             "title": "the_descent_of_inanna",
+            "country": "iraq",
             "stats": {
                 "numbers": {
                     "1": 10,
@@ -1592,6 +1702,7 @@
             "origin": "maori",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "maori",
+            "country": "new zeland",
             "stats": {
                 "numbers": {
                     "1": 3,
@@ -1604,6 +1715,7 @@
             "origin": "mapuche",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "mapuche",
+            "country": "chile",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -1616,6 +1728,7 @@
             "origin": "mariana_islands",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "mariana_islands",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -1628,6 +1741,7 @@
             "origin": "marshall_islands",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "marshall_islands",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -1640,6 +1754,7 @@
             "origin": "mayan",
             "source": "https://www.latinamericanstudies.org/maya/Popol_Vuh.pdf",
             "title": "popol_vuh",
+            "country": "mexico",
             "stats": {
                 "numbers": {
                     "1": 241,
@@ -1671,6 +1786,7 @@
             "origin": "minyoung",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "minyoung",
+            "country": "india",
             "stats": {
                 "numbers": {
                     "1": 2,
@@ -1683,6 +1799,7 @@
             "origin": "miwok",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "miwok",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 1
@@ -1694,6 +1811,7 @@
             "origin": "mixtec",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "mixtec",
+            "country": "mexico",
             "stats": {
                 "numbers": {
                     "1": 2,
@@ -1706,6 +1824,7 @@
             "origin": "modoc",
             "source": "https://www.grizzlytimes.org/the-modoc-creation-story",
             "title": "modoc",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 4,
@@ -1719,6 +1838,7 @@
             "origin": "mowhawk",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "mowhawk",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 3,
@@ -1731,6 +1851,7 @@
             "origin": "mongolian",
             "source": "https://uploads-ssl.webflow.com/583f08dac047cc150c5963e5/5f2d4c90d6b1b580c1dc78b0_Mongolian%20Origin%20Myth_tr.%20Mulzet_Eleven%20Eleven.pdf",
             "title": "mongolian",
+            "country": "mongolia",
             "stats": {
                 "numbers": {
                     "1": 5,
@@ -1748,6 +1869,7 @@
             "origin": "mosetene",
             "source": "https://uploads-ssl.webflow.com/583f08dac047cc150c5963e5/5f2d4c90d6b1b580c1dc78b0_mosetene%20Origin%20Myth_tr.%20Mulzet_Eleven%20Eleven.pdf",
             "title": "mosetene",
+            "country": "bolivia",
             "stats": {
                 "numbers": {}
             }
@@ -1757,6 +1879,7 @@
             "origin": "munduruc",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "munduruc",
+            "country": "brazil",
             "stats": {
                 "numbers": {
                     "1": 2,
@@ -1769,6 +1892,7 @@
             "origin": "nandi",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "nandi",
+            "country": "kenya",
             "stats": {
                 "numbers": {}
             }
@@ -1778,6 +1902,7 @@
             "origin": "navajo",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "navajo",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 19,
@@ -1794,6 +1919,7 @@
             "origin": "negritos",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "negritos",
+            "country": "philippines",
             "stats": {
                 "numbers": {
                     "1": 1
@@ -1805,6 +1931,7 @@
             "origin": "netsilik",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "netsilik",
+            "country": "canada",
             "stats": {
                 "numbers": {
                     "1": 4,
@@ -1817,6 +1944,7 @@
             "origin": "new_britain",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "new_britain",
+            "country": "england",
             "stats": {
                 "numbers": {
                     "2": 2
@@ -1828,6 +1956,7 @@
             "origin": "new_hebrides",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "new_hebrides",
+            "country": "vanuatu",
             "stats": {
                 "numbers": {
                     "1": 1,
@@ -1840,6 +1969,7 @@
             "origin": "nez_perce",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "nez_perce",
+            "country": "america",
             "stats": {
                 "numbers": {}
             }
@@ -1849,6 +1979,7 @@
             "origin": "ngombe",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "ngombe",
+            "country": "congo",
             "stats": {
                 "numbers": {
                     "1": 1
@@ -1857,9 +1988,10 @@
         },
         {
             "id": 131,
-            "origin": "ngunrunderi",
+            "origin": "ngurunderi",
             "source": "A Dictionary of Creation Myths, Leeming",
-            "title": "ngunrunderi",
+            "title": "ngurunderi",
+            "country": "australia",
             "stats": {
                 "numbers": {
                     "2": 1
@@ -1871,6 +2003,7 @@
             "origin": "norse",
             "source": "https://sites.pitt.edu/~dash/creation.html",
             "title": "norse",
+            "country": "denmark",
             "stats": {
                 "numbers": {
                     "1": 5,
@@ -1885,6 +2018,7 @@
             "origin": "nup",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "nup",
+            "country": "nigeria",
             "stats": {
                 "numbers": {
                     "1": 2
@@ -1896,6 +2030,7 @@
             "origin": "nyamwezi",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "nyamwezi",
+            "country": "tanzania",
             "stats": {
                 "numbers": {
                     "1": 2,
@@ -1908,6 +2043,7 @@
             "origin": "okanagan",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "okanagan",
+            "country": "canada",
             "stats": {
                 "numbers": {
                     "1": 12
@@ -1919,6 +2055,7 @@
             "origin": "omaha",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "omaha",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 3,
@@ -1931,6 +2068,7 @@
             "origin": "onondaga",
             "source": "http://www.native-languages.org/ostory2.htm",
             "title": "onondaga",
+            "country": "america",
             "stats": {
                 "numbers": {
                     "1": 2,
