@@ -970,6 +970,26 @@
         {
             "id": 64,
             "origin": "greek",
+            "source": "https://kosmossociety.chs.harvard.edu/wp-content/uploads/2014/01/054_book_sourcebook_hesiod-theogony.pdf",
+            "time": "-800",
+            "title": "theogony",
+            "stats": {
+                "numbers": {
+                    "1": 51,
+                    "2": 2,
+                    "3": 3,
+                    "9": 9,
+                    "10": 5,
+                    "50": 4,
+                    "100": 3,
+                    "300": 1,
+                    "1000": 1
+                }
+            }
+        },
+        {
+            "id": 65,
+            "origin": "greek",
             "source": "https://themythologyproject.com/the-crow-the-crab-and-the-earthworm/",
             "title": "pelasgian",
             "stats": {
@@ -981,7 +1001,21 @@
             }
         },
         {
-            "id": 65,
+            "id": 66,
+            "origin": "greek",
+            "source": "https://uruk-warka.dk/news/2020%20different/18.pdf",
+            "time": -800,
+            "title": "greek",
+            "stats": {
+                "numbers": {
+                    "1": 16,
+                    "2": 1,
+                    "1000": 1
+                }
+            }
+        },
+        {
+            "id": 67,
             "origin": "guarani",
             "source": "https://www.ancient-origins.net/myths-legends-americas/gods-creation-and-legendary-beasts-guarani-002937",
             "title": "guarani",
@@ -992,7 +1026,7 @@
             }
         },
         {
-            "id": 66,
+            "id": 68,
             "origin": "haida",
             "source": "https://www.historymuseum.ca/history-hall/origins/_media/Creation-of-Haidagwaii-EN.pdf",
             "title": "haida",
@@ -1006,7 +1040,7 @@
             }
         },
         {
-            "id": 67,
+            "id": 69,
             "origin": "hawaiian",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "hawaiian",
@@ -1017,7 +1051,7 @@
             }
         },
         {
-            "id": 68,
+            "id": 70,
             "origin": "hopi",
             "source": "https://ochsmrsg.weebly.com/uploads/1/4/9/4/14949746/hopicreationmyth_1.pdf",
             "title": "hopi",
@@ -1032,7 +1066,7 @@
             }
         },
         {
-            "id": 69,
+            "id": 71,
             "origin": "hottentot",
             "source": "https://ochsmrsg.weebly.com/uploads/1/4/9/4/14949746/hopicreationmyth_1.pdf",
             "title": "hottentot",
@@ -1043,7 +1077,7 @@
             }
         },
         {
-            "id": 70,
+            "id": 72,
             "origin": "hungarian",
             "source": "https://www.crystalinks.com/hungarycreation.html",
             "title": "hungarian",
@@ -1054,7 +1088,7 @@
             }
         },
         {
-            "id": 71,
+            "id": 73,
             "origin": "huron",
             "source": "https://www.aaanativearts.com/wyandotte-huron-creation-legend",
             "title": "huron",
@@ -1066,7 +1100,7 @@
             }
         },
         {
-            "id": 72,
+            "id": 74,
             "origin": "ijaw",
             "source": "https://woyingi.wordpress.com/about-woyingi/an-ijaw-story-journey-to-the-presence-of-woyingi/",
             "title": "ijaw",
@@ -1080,7 +1114,7 @@
             }
         },
         {
-            "id": 73,
+            "id": 75,
             "origin": "inca",
             "source": "https://woyingi.wordpress.com/about-woyingi/an-ijaw-story-journey-to-the-presence-of-woyingi/",
             "title": "inca",
@@ -1092,7 +1126,7 @@
             }
         },
         {
-            "id": 74,
+            "id": 76,
             "origin": "indian",
             "source": "https://www.shrivedabharathi.in/resources/Documents/Rig%20Veda%20(%20PDFDrive%20).pdf",
             "title": "rigveda",
@@ -1120,7 +1154,7 @@
             }
         },
         {
-            "id": 75,
+            "id": 77,
             "origin": "inupiat",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "inupiat",
@@ -1131,7 +1165,7 @@
             }
         },
         {
-            "id": 76,
+            "id": 78,
             "origin": "ipurina",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "ipurina",
@@ -1140,7 +1174,7 @@
             }
         },
         {
-            "id": 77,
+            "id": 79,
             "origin": "irish",
             "source": "https://ochsmrsg.weebly.com/uploads/1/4/9/4/14949746/celticcreationmyth__1__1.pdf",
             "title": "irish",
@@ -1153,7 +1187,20 @@
             }
         },
         {
-            "id": 78,
+            "id": 80,
+            "origin": "iroquois",
+            "source": "http://dept.cs.williams.edu/~lindsey/myths/myths_12.html",
+            "time": null,
+            "title": "iroquois",
+            "stats": {
+                "numbers": {
+                    "1": 8,
+                    "2": 2
+                }
+            }
+        },
+        {
+            "id": 81,
             "origin": "islamic",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "islamic",
@@ -1164,7 +1211,7 @@
             }
         },
         {
-            "id": 79,
+            "id": 82,
             "origin": "jain",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "jain",
@@ -1175,7 +1222,7 @@
             }
         },
         {
-            "id": 80,
+            "id": 83,
             "origin": "japanese",
             "source": "https://www.worldhistory.org/Izanami_and_Izanagi/",
             "title": "japanese",
@@ -1191,7 +1238,7 @@
             }
         },
         {
-            "id": 81,
+            "id": 84,
             "origin": "jivaro",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "jivaro",
@@ -1202,7 +1249,7 @@
             }
         },
         {
-            "id": 82,
+            "id": 85,
             "origin": "joshua",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "joshua",
@@ -1217,7 +1264,7 @@
             }
         },
         {
-            "id": 83,
+            "id": 86,
             "origin": "kagaba",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "kagaba",
@@ -1226,7 +1273,7 @@
             }
         },
         {
-            "id": 84,
+            "id": 87,
             "origin": "kakadu",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "kakadu",
@@ -1235,7 +1282,7 @@
             }
         },
         {
-            "id": 85,
+            "id": 88,
             "origin": "kikuyu",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "kikuyu",
@@ -1247,7 +1294,7 @@
             }
         },
         {
-            "id": 86,
+            "id": 89,
             "origin": "kiowa",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "kiowa",
@@ -1259,7 +1306,7 @@
             }
         },
         {
-            "id": 87,
+            "id": 90,
             "origin": "kodiak",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "kodiak",
@@ -1270,7 +1317,7 @@
             }
         },
         {
-            "id": 88,
+            "id": 91,
             "origin": "kokowarra",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "kokowarra",
@@ -1281,7 +1328,7 @@
             }
         },
         {
-            "id": 89,
+            "id": 92,
             "origin": "kono",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "kono",
@@ -1296,7 +1343,7 @@
             }
         },
         {
-            "id": 90,
+            "id": 93,
             "origin": "korean",
             "source": "https://www.crystalinks.com/koreacreation.html",
             "title": "korean",
@@ -1322,7 +1369,7 @@
             }
         },
         {
-            "id": 91,
+            "id": 94,
             "origin": "krachi",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "krachi",
@@ -1333,7 +1380,7 @@
             }
         },
         {
-            "id": 92,
+            "id": 95,
             "origin": "kukulik",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "kukulik",
@@ -1344,7 +1391,7 @@
             }
         },
         {
-            "id": 93,
+            "id": 96,
             "origin": "laguna",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "laguna",
@@ -1353,7 +1400,7 @@
             }
         },
         {
-            "id": 94,
+            "id": 97,
             "origin": "lao",
             "source": "https://en.wikipedia.org/wiki/Khun_Borom",
             "title": "lao",
@@ -1367,7 +1414,7 @@
             }
         },
         {
-            "id": 95,
+            "id": 98,
             "origin": "lapp",
             "source": "https://windman.se/biegolmai/",
             "title": "lapp",
@@ -1379,7 +1426,7 @@
             }
         },
         {
-            "id": 96,
+            "id": 99,
             "origin": "lenape",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "lenape",
@@ -1391,7 +1438,7 @@
             }
         },
         {
-            "id": 97,
+            "id": 100,
             "origin": "lugbara",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "lugbara",
@@ -1403,7 +1450,7 @@
             }
         },
         {
-            "id": 98,
+            "id": 101,
             "origin": "luiseno",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "luiseno",
@@ -1421,7 +1468,7 @@
             }
         },
         {
-            "id": 99,
+            "id": 102,
             "origin": "maasai",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "maasai",
@@ -1434,7 +1481,7 @@
             }
         },
         {
-            "id": 100,
+            "id": 103,
             "origin": "maidu",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "maidu",
@@ -1446,7 +1493,7 @@
             }
         },
         {
-            "id": 101,
+            "id": 104,
             "origin": "malagasy",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "malagasy",
@@ -1457,7 +1504,7 @@
             }
         },
         {
-            "id": 102,
+            "id": 105,
             "origin": "malozi",
             "source": "https://www.godchecker.com/african-mythology/NYAMBE/",
             "title": "malozi",
@@ -1470,7 +1517,7 @@
             }
         },
         {
-            "id": 103,
+            "id": 106,
             "origin": "mandan",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "mandan",
@@ -1482,7 +1529,7 @@
             }
         },
         {
-            "id": 104,
+            "id": 107,
             "origin": "mande",
             "source": "https://www.gqstimeline.com/the-mande-creation-myth/#:~:text=Mangala%20made%20two%20eleusine%20seeds,framework%20of%20the%20world's%20creation.",
             "time": 1200,
@@ -1498,7 +1545,50 @@
             }
         },
         {
-            "id": 105,
+            "id": 108,
+            "origin": "mesopotamia",
+            "source": "https://geha.paginas.ufsc.br/files/2017/04/Atrahasis.pdf",
+            "time": -1800,
+            "title": "atrahasis",
+            "stats": {
+                "numbers": {
+                    "1": 15,
+                    "2": 10,
+                    "3": 6,
+                    "4": 2,
+                    "5": 2,
+                    "6": 2,
+                    "7": 13,
+                    "9": 4,
+                    "10": 2,
+                    "14": 1,
+                    "15": 3,
+                    "50": 2,
+                    "600": 8,
+                    "3600": 1
+                }
+            }
+        },
+        {
+            "id": 109,
+            "origin": "mesopotamia",
+            "source": "https://static1.squarespace.com/static/520f9c9be4b0210b06eba019/t/6078aacb9a701e550b59c2ec/1618520782012/descent-of-inanna1.pdf",
+            "time": -1800,
+            "title": "the_descent_of_inanna",
+            "stats": {
+                "numbers": {
+                    "1": 10,
+                    "2": 1,
+                    "3": 3,
+                    "4": 1,
+                    "5": 1,
+                    "6": 1,
+                    "7": 6
+                }
+            }
+        },
+        {
+            "id": 110,
             "origin": "maori",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "maori",
@@ -1510,7 +1600,7 @@
             }
         },
         {
-            "id": 106,
+            "id": 111,
             "origin": "mapuche",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "mapuche",
@@ -1522,7 +1612,7 @@
             }
         },
         {
-            "id": 107,
+            "id": 112,
             "origin": "mariana_islands",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "mariana_islands",
@@ -1534,7 +1624,7 @@
             }
         },
         {
-            "id": 108,
+            "id": 113,
             "origin": "marshall_islands",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "marshall_islands",
@@ -1546,7 +1636,7 @@
             }
         },
         {
-            "id": 109,
+            "id": 114,
             "origin": "mayan",
             "source": "https://www.latinamericanstudies.org/maya/Popol_Vuh.pdf",
             "title": "popol_vuh",
@@ -1577,7 +1667,7 @@
             }
         },
         {
-            "id": 110,
+            "id": 115,
             "origin": "minyoung",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "minyoung",
@@ -1589,7 +1679,7 @@
             }
         },
         {
-            "id": 111,
+            "id": 116,
             "origin": "miwok",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "miwok",
@@ -1600,7 +1690,7 @@
             }
         },
         {
-            "id": 112,
+            "id": 117,
             "origin": "mixtec",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "mixtec",
@@ -1612,7 +1702,7 @@
             }
         },
         {
-            "id": 113,
+            "id": 118,
             "origin": "modoc",
             "source": "https://www.grizzlytimes.org/the-modoc-creation-story",
             "title": "modoc",
@@ -1625,7 +1715,7 @@
             }
         },
         {
-            "id": 114,
+            "id": 119,
             "origin": "mowhawk",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "mowhawk",
@@ -1637,7 +1727,7 @@
             }
         },
         {
-            "id": 115,
+            "id": 120,
             "origin": "mongolian",
             "source": "https://uploads-ssl.webflow.com/583f08dac047cc150c5963e5/5f2d4c90d6b1b580c1dc78b0_Mongolian%20Origin%20Myth_tr.%20Mulzet_Eleven%20Eleven.pdf",
             "title": "mongolian",
@@ -1654,7 +1744,7 @@
             }
         },
         {
-            "id": 116,
+            "id": 121,
             "origin": "mosetene",
             "source": "https://uploads-ssl.webflow.com/583f08dac047cc150c5963e5/5f2d4c90d6b1b580c1dc78b0_mosetene%20Origin%20Myth_tr.%20Mulzet_Eleven%20Eleven.pdf",
             "title": "mosetene",
@@ -1663,7 +1753,7 @@
             }
         },
         {
-            "id": 117,
+            "id": 122,
             "origin": "munduruc",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "munduruc",
@@ -1675,7 +1765,7 @@
             }
         },
         {
-            "id": 118,
+            "id": 123,
             "origin": "nandi",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "nandi",
@@ -1684,7 +1774,7 @@
             }
         },
         {
-            "id": 119,
+            "id": 124,
             "origin": "navajo",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "navajo",
@@ -1700,7 +1790,7 @@
             }
         },
         {
-            "id": 120,
+            "id": 125,
             "origin": "negritos",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "negritos",
@@ -1711,7 +1801,7 @@
             }
         },
         {
-            "id": 121,
+            "id": 126,
             "origin": "netsilik",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "netsilik",
@@ -1723,7 +1813,7 @@
             }
         },
         {
-            "id": 122,
+            "id": 127,
             "origin": "new_britain",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "new_britain",
@@ -1734,7 +1824,7 @@
             }
         },
         {
-            "id": 123,
+            "id": 128,
             "origin": "new_hebrides",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "new_hebrides",
@@ -1746,7 +1836,7 @@
             }
         },
         {
-            "id": 124,
+            "id": 129,
             "origin": "nez_perce",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "nez_perce",
@@ -1755,7 +1845,7 @@
             }
         },
         {
-            "id": 125,
+            "id": 130,
             "origin": "ngombe",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "ngombe",
@@ -1766,7 +1856,7 @@
             }
         },
         {
-            "id": 126,
+            "id": 131,
             "origin": "ngunrunderi",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "ngunrunderi",
@@ -1777,7 +1867,7 @@
             }
         },
         {
-            "id": 127,
+            "id": 132,
             "origin": "norse",
             "source": "https://sites.pitt.edu/~dash/creation.html",
             "title": "norse",
@@ -1791,7 +1881,7 @@
             }
         },
         {
-            "id": 128,
+            "id": 133,
             "origin": "nup",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "nup",
@@ -1802,7 +1892,7 @@
             }
         },
         {
-            "id": 129,
+            "id": 134,
             "origin": "nyamwezi",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "nyamwezi",
@@ -1814,7 +1904,7 @@
             }
         },
         {
-            "id": 130,
+            "id": 135,
             "origin": "okanagan",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "okanagan",
@@ -1825,7 +1915,7 @@
             }
         },
         {
-            "id": 131,
+            "id": 136,
             "origin": "omaha",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "omaha",
@@ -1837,7 +1927,7 @@
             }
         },
         {
-            "id": 132,
+            "id": 137,
             "origin": "onondaga",
             "source": "http://www.native-languages.org/ostory2.htm",
             "title": "onondaga",
@@ -1850,7 +1940,7 @@
             }
         },
         {
-            "id": 133,
+            "id": 138,
             "origin": "oneida",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "oneida",
@@ -1861,7 +1951,7 @@
             }
         },
         {
-            "id": 134,
+            "id": 139,
             "origin": "oqomiut",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "oqomiut",
@@ -1872,7 +1962,7 @@
             }
         },
         {
-            "id": 135,
+            "id": 140,
             "origin": "osage",
             "source": "http://archeology.uark.edu/indiansofarkansas/index.html?pageName=Creation%20of%20the%20World%20(Osage)",
             "title": "osage",
@@ -1887,7 +1977,7 @@
             }
         },
         {
-            "id": 136,
+            "id": 141,
             "origin": "papago",
             "source": "http://archeology.uark.edu/indiansofarkansas/index.html?pageName=Creation%20of%20the%20World%20(papago)",
             "title": "papago",
@@ -1898,7 +1988,7 @@
             }
         },
         {
-            "id": 137,
+            "id": 142,
             "origin": "papua_new_guinea",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "papua_new_guinea",
@@ -1909,7 +1999,7 @@
             }
         },
         {
-            "id": 138,
+            "id": 143,
             "origin": "pawnee",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "pawnee",
@@ -1920,7 +2010,7 @@
             }
         },
         {
-            "id": 139,
+            "id": 144,
             "origin": "penobscot",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "penobscot",
@@ -1932,7 +2022,7 @@
             }
         },
         {
-            "id": 140,
+            "id": 145,
             "origin": "persian",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "persian",
@@ -1941,7 +2031,7 @@
             }
         },
         {
-            "id": 141,
+            "id": 146,
             "origin": "phoenician",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "phoenician",
@@ -1952,7 +2042,7 @@
             }
         },
         {
-            "id": 142,
+            "id": 147,
             "origin": "pima",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "pima",
@@ -1961,7 +2051,7 @@
             }
         },
         {
-            "id": 143,
+            "id": 148,
             "origin": "polynesian",
             "source": "https://www.scilt.org.uk/portals/24/passeport2/educationscotland/Images/PolynesianCreationstory_tcm4-730167.pdf",
             "title": "polynesian",
@@ -1973,7 +2063,7 @@
             }
         },
         {
-            "id": 144,
+            "id": 149,
             "origin": "pomo",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "pomo",
@@ -1987,7 +2077,7 @@
             }
         },
         {
-            "id": 145,
+            "id": 150,
             "origin": "pueblo",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "pueblo",
@@ -1998,7 +2088,7 @@
             }
         },
         {
-            "id": 146,
+            "id": 151,
             "origin": "roman",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "roman",
@@ -2009,7 +2099,7 @@
             }
         },
         {
-            "id": 147,
+            "id": 152,
             "origin": "romanian",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "romanian",
@@ -2018,7 +2108,7 @@
             }
         },
         {
-            "id": 148,
+            "id": 153,
             "origin": "salinan",
             "source": "https://courses.lumenlearning.com/wm-ushistory1/chapter/primary-source-native-american-creation-stories/",
             "title": "salinan",
@@ -2029,7 +2119,7 @@
             }
         },
         {
-            "id": 149,
+            "id": 154,
             "origin": "salishan",
             "source": "https://salishtribe.wordpress.com/salish-culture/the-salish-creation-story/",
             "title": "salishan",
@@ -2040,7 +2130,7 @@
             }
         },
         {
-            "id": 150,
+            "id": 155,
             "origin": "samoan",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "samoan",
@@ -2052,7 +2142,7 @@
             }
         },
         {
-            "id": 151,
+            "id": 156,
             "origin": "samoyed",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "samoyed",
@@ -2061,7 +2151,7 @@
             }
         },
         {
-            "id": 152,
+            "id": 157,
             "origin": "san_cristobal",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "san_cristobal",
@@ -2072,7 +2162,7 @@
             }
         },
         {
-            "id": 153,
+            "id": 158,
             "origin": "seneca",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "seneca",
@@ -2084,7 +2174,7 @@
             }
         },
         {
-            "id": 154,
+            "id": 159,
             "origin": "shilluk",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "shilluk",
@@ -2096,7 +2186,7 @@
             }
         },
         {
-            "id": 155,
+            "id": 160,
             "origin": "siberian",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "siberian",
@@ -2107,7 +2197,7 @@
             }
         },
         {
-            "id": 156,
+            "id": 161,
             "origin": "siberian_tartar",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "siberian_tartar",
@@ -2116,7 +2206,7 @@
             }
         },
         {
-            "id": 157,
+            "id": 162,
             "origin": "sikh",
             "source": "https://www.bbc.co.uk/bitesize/guides/znnmtv4/revision/3#:~:text=Sikhs%20believe%20that%20before%20the,responsible%20for%20everything%20in%20it.",
             "title": "sikh",
@@ -2128,7 +2218,7 @@
             }
         },
         {
-            "id": 158,
+            "id": 163,
             "origin": "sioux",
             "source": "https://chnm.gmu.edu/exploring/pre_18thcentury/creationstories/pop_sioux.html",
             "title": "sioux",
@@ -2142,7 +2232,7 @@
             }
         },
         {
-            "id": 159,
+            "id": 164,
             "origin": "skagit",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "skagit",
@@ -2155,7 +2245,7 @@
             }
         },
         {
-            "id": 160,
+            "id": 165,
             "origin": "snohomish",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "snohomish",
@@ -2170,7 +2260,24 @@
             }
         },
         {
-            "id": 161,
+            "id": 166,
+            "origin": "sumer",
+            "source": "https://www.livius.org/sources/content/oriental-varia/eridu-genesis/",
+            "time": -1600,
+            "title": "eridu_genesis",
+            "stats": {
+                "numbers": {
+                    "1": 3,
+                    "2": 1,
+                    "3": 1,
+                    "4": 2,
+                    "5": 1,
+                    "7": 2
+                }
+            }
+        },
+        {
+            "id": 167,
             "origin": "sumu",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "sumu",
@@ -2179,7 +2286,7 @@
             }
         },
         {
-            "id": 162,
+            "id": 168,
             "origin": "swahili",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "swahili",
@@ -2192,7 +2299,7 @@
             }
         },
         {
-            "id": 163,
+            "id": 169,
             "origin": "tahitian",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "tahitian",
@@ -2203,7 +2310,7 @@
             }
         },
         {
-            "id": 164,
+            "id": 170,
             "origin": "talmudic",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "talmudic",
@@ -2221,7 +2328,7 @@
             }
         },
         {
-            "id": 165,
+            "id": 171,
             "origin": "tantric",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "tantric",
@@ -2232,7 +2339,7 @@
             }
         },
         {
-            "id": 166,
+            "id": 172,
             "origin": "tewa",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "tewa",
@@ -2243,7 +2350,7 @@
             }
         },
         {
-            "id": 167,
+            "id": 173,
             "origin": "thompson_indians",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "thompson_indians",
@@ -2258,7 +2365,7 @@
             }
         },
         {
-            "id": 168,
+            "id": 174,
             "origin": "tierra_del_fuego",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "tierra_del_fuego",
@@ -2269,7 +2376,7 @@
             }
         },
         {
-            "id": 169,
+            "id": 175,
             "origin": "tlingit",
             "source": "https://www.indigenouspeople.net/creatlingit.htm",
             "title": "tlingit",
@@ -2285,7 +2392,7 @@
             }
         },
         {
-            "id": 170,
+            "id": 176,
             "origin": "toltec",
             "source": "https://genius.com/Donna-rosenberg-the-creation-cycle-toltec-aztec-annotated",
             "title": "toltec",
@@ -2300,7 +2407,7 @@
             }
         },
         {
-            "id": 171,
+            "id": 177,
             "origin": "tonga",
             "source": "https://polynesia.com/blog/the-legend-of-ahoeitu",
             "title": "tonga",
@@ -2311,7 +2418,7 @@
             }
         },
         {
-            "id": 172,
+            "id": 178,
             "origin": "truk_island",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "truk_island",
@@ -2322,7 +2429,7 @@
             }
         },
         {
-            "id": 173,
+            "id": 179,
             "origin": "tsimshian",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "tsimshian",
@@ -2334,7 +2441,7 @@
             }
         },
         {
-            "id": 174,
+            "id": 180,
             "origin": "tuamotuan",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "tuamotuan",
@@ -2345,7 +2452,7 @@
             }
         },
         {
-            "id": 175,
+            "id": 181,
             "origin": "tungus",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "tungus",
@@ -2354,7 +2461,7 @@
             }
         },
         {
-            "id": 176,
+            "id": 182,
             "origin": "turkic",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "turkic",
@@ -2366,7 +2473,7 @@
             }
         },
         {
-            "id": 177,
+            "id": 183,
             "origin": "tuscarora",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "tuscarora",
@@ -2377,7 +2484,7 @@
             }
         },
         {
-            "id": 178,
+            "id": 184,
             "origin": "uitoto",
             "source": "https://sacred-texts.com/nam/sa/cau.htm",
             "title": "uitoto",
@@ -2386,7 +2493,7 @@
             }
         },
         {
-            "id": 179,
+            "id": 185,
             "origin": "ute",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "ute",
@@ -2395,7 +2502,7 @@
             }
         },
         {
-            "id": 180,
+            "id": 186,
             "origin": "vietnamese",
             "source": "https://www.haivenu-vietnam.com/vietnam-culture-myths.htm",
             "title": "vietnamese",
@@ -2408,7 +2515,7 @@
             }
         },
         {
-            "id": 181,
+            "id": 187,
             "origin": "wahungwe",
             "source": "https://www.haivenu-vietnam.com/vietnam-culture-myths.htm",
             "title": "wahungwe",
@@ -2423,7 +2530,7 @@
             }
         },
         {
-            "id": 182,
+            "id": 188,
             "origin": "wapangwa",
             "source": "https://www.haivenu-vietnam.com/vietnam-culture-myths.htm",
             "title": "wapangwa",
@@ -2434,7 +2541,7 @@
             }
         },
         {
-            "id": 183,
+            "id": 189,
             "origin": "welsh",
             "source": "https://www.gutenberg.org/files/5160/5160-h/5160-h.htm",
             "title": "mabinogion",
@@ -2479,7 +2586,7 @@
             }
         },
         {
-            "id": 184,
+            "id": 190,
             "origin": "winnebago",
             "source": "http://www.native-languages.org/hochunkstory.htm",
             "title": "winnebago",
@@ -2491,7 +2598,7 @@
             }
         },
         {
-            "id": 185,
+            "id": 191,
             "origin": "wyandot",
             "source": "http://www.native-languages.org/wyandotstory.htm",
             "title": "wyandot",
@@ -2502,7 +2609,7 @@
             }
         },
         {
-            "id": 186,
+            "id": 192,
             "origin": "wyot",
             "source": "http://www.native-languages.org/wiyotstory2.htm",
             "title": "wyot",
@@ -2514,7 +2621,7 @@
             }
         },
         {
-            "id": 187,
+            "id": 193,
             "origin": "yakima",
             "source": "https://yakama.weebly.com/tribal-stories.html",
             "title": "yakima",
@@ -2525,7 +2632,7 @@
             }
         },
         {
-            "id": 188,
+            "id": 194,
             "origin": "yami",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "yami",
@@ -2537,7 +2644,7 @@
             }
         },
         {
-            "id": 189,
+            "id": 195,
             "origin": "yana",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "yana",
@@ -2546,7 +2653,7 @@
             }
         },
         {
-            "id": 190,
+            "id": 196,
             "origin": "yanomami",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "yanomami",
@@ -2557,7 +2664,7 @@
             }
         },
         {
-            "id": 191,
+            "id": 197,
             "origin": "yao",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "yao",
@@ -2566,7 +2673,7 @@
             }
         },
         {
-            "id": 192,
+            "id": 198,
             "origin": "yaruro",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "yaruro",
@@ -2575,7 +2682,7 @@
             }
         },
         {
-            "id": 193,
+            "id": 199,
             "origin": "yokut",
             "source": "http://www.bsahighadventure.org/indian_lore/myths/creation_story_yokuts.html",
             "title": "yokut",
@@ -2589,7 +2696,7 @@
             }
         },
         {
-            "id": 194,
+            "id": 200,
             "origin": "yoruba",
             "source": "https://mhcc.pressbooks.pub/app/uploads/sites/28/2021/02/ENG250_YorubaCreationMyth.pdf",
             "title": "yoruba",
@@ -2600,7 +2707,7 @@
             }
         },
         {
-            "id": 195,
+            "id": 201,
             "origin": "yuchi",
             "source": "https://web.archive.org/web/20080828103611/http://bulfinch.englishatheist.org/creation/Yuchi-Creation.htm",
             "title": "yuchi",
@@ -2612,7 +2719,7 @@
             }
         },
         {
-            "id": 196,
+            "id": 202,
             "origin": "yuki",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "yuki",
@@ -2624,7 +2731,7 @@
             }
         },
         {
-            "id": 197,
+            "id": 203,
             "origin": "yuma",
             "source": "https://sacred-texts.com/nam/ca/ctdi/ctdi06.htm",
             "title": "yuma",
@@ -2635,7 +2742,7 @@
             }
         },
         {
-            "id": 198,
+            "id": 204,
             "origin": "yurucare",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "yurucare",
@@ -2648,7 +2755,7 @@
             }
         },
         {
-            "id": 199,
+            "id": 205,
             "origin": "zapotec",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "zapotec",
@@ -2657,7 +2764,7 @@
             }
         },
         {
-            "id": 200,
+            "id": 206,
             "origin": "zia",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "zia",
@@ -2670,7 +2777,7 @@
             }
         },
         {
-            "id": 201,
+            "id": 207,
             "origin": "zia",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "zia",
@@ -2683,7 +2790,7 @@
             }
         },
         {
-            "id": 202,
+            "id": 208,
             "origin": "zoroastrian",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "bundahishn",
@@ -2748,7 +2855,7 @@
             }
         },
         {
-            "id": 203,
+            "id": 209,
             "origin": "zulu",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "zulu",
@@ -2759,7 +2866,7 @@
             }
         },
         {
-            "id": 204,
+            "id": 210,
             "origin": "zuni",
             "source": "https://www.billstifler.org/myth/files/2D-001-06-zuni_creation.htm",
             "title": "zuni",
