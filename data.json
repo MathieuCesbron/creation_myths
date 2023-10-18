@@ -2533,6 +2533,175 @@
                     "3000": 1
                 }
             }
+        },
+        {
+            "id": 184,
+            "origin": "winnebago",
+            "source": "http://www.native-languages.org/hochunkstory.htm",
+            "title": "winnebago",
+            "stats": {
+                "numbers": {
+                    "1": 1,
+                    "4": 4
+                }
+            }
+        },
+        {
+            "id": 185,
+            "origin": "wyandot",
+            "source": "http://www.native-languages.org/wyandotstory.htm",
+            "title": "wyandot",
+            "stats": {
+                "numbers": {
+                    "1": 4
+                }
+            }
+        },
+        {
+            "id": 186,
+            "origin": "wyot",
+            "source": "http://www.native-languages.org/wiyotstory2.htm",
+            "title": "wyot",
+            "stats": {
+                "numbers": {
+                    "1": 5,
+                    "10": 1
+                }
+            }
+        },
+        {
+            "id": 187,
+            "origin": "yakima",
+            "source": "https://yakama.weebly.com/tribal-stories.html",
+            "title": "yakima",
+            "stats": {
+                "numbers": {
+                    "1": 2
+                }
+            }
+        },
+        {
+            "id": 188,
+            "origin": "yami",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "yami",
+            "stats": {
+                "numbers": {
+                    "1": 6,
+                    "2": 1
+                }
+            }
+        },
+        {
+            "id": 189,
+            "origin": "yana",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "yana",
+            "stats": {
+                "numbers": {}
+            }
+        },
+        {
+            "id": 190,
+            "origin": "yanomami",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "yanomami",
+            "stats": {
+                "numbers": {
+                    "1": 1
+                }
+            }
+        },
+        {
+            "id": 191,
+            "origin": "yao",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "yao",
+            "stats": {
+                "numbers": {}
+            }
+        },
+        {
+            "id": 192,
+            "origin": "yaruro",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "yaruro",
+            "stats": {
+                "numbers": {}
+            }
+        },
+        {
+            "id": 193,
+            "origin": "yokut",
+            "source": "http://www.bsahighadventure.org/indian_lore/myths/creation_story_yokuts.html",
+            "title": "yokut",
+            "stats": {
+                "numbers": {
+                    "1": 13,
+                    "2": 4,
+                    "3": 2,
+                    "10": 1
+                }
+            }
+        },
+        {
+            "id": 194,
+            "origin": "yoruba",
+            "source": "https://mhcc.pressbooks.pub/app/uploads/sites/28/2021/02/ENG250_YorubaCreationMyth.pdf",
+            "title": "yoruba",
+            "stats": {
+                "numbers": {
+                    "1": 19
+                }
+            }
+        },
+        {
+            "id": 195,
+            "origin": "yuchi",
+            "source": "https://web.archive.org/web/20080828103611/http://bulfinch.englishatheist.org/creation/Yuchi-Creation.htm",
+            "title": "yuchi",
+            "stats": {
+                "numbers": {
+                    "1": 2,
+                    "2": 1
+                }
+            }
+        },
+        {
+            "id": 196,
+            "origin": "yuki",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "yuki",
+            "stats": {
+                "numbers": {
+                    "1": 1,
+                    "4": 3
+                }
+            }
+        },
+        {
+            "id": 197,
+            "origin": "yuma",
+            "source": "https://sacred-texts.com/nam/ca/ctdi/ctdi06.htm",
+            "title": "yuma",
+            "stats": {
+                "numbers": {
+                    "1": 3
+                }
+            }
+        },
+        {
+            "id": 198,
+            "origin": "yurucare",
+            "source": "A Dictionary of Creation Myths, Leeming",
+            "title": "yurucare",
+            "stats": {
+                "numbers": {
+                    "1": 1,
+                    "3": 1,
+                    "4": 1
+                }
+            }
         }
     ]
 }
