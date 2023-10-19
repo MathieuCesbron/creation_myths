@@ -981,6 +981,7 @@
             "origin": "garo",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "garo",
+            "time": null,
             "country": "india",
             "stats": {
                 "numbers": {
@@ -993,6 +994,7 @@
             "origin": "gilbert_islands",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "gilbert_islands",
+            "time": null,
             "country": "kiribati",
             "stats": {
                 "numbers": {
@@ -1003,19 +1005,25 @@
         {
             "id": 62,
             "origin": "gnostic",
-            "source": "https://gnosticismexplained.org/the-gnostic-creation-myth/",
-            "title": "gnostic",
+            "source": "http://gnosis.org/naghamm/apocjn-davies.html",
+            "title": "the_apocryphon_of_john",
+            "time": 300,
             "country": "israel",
             "stats": {
                 "numbers": {
-                    "1": 8,
-                    "2": 2,
-                    "3": 6,
-                    "4": 1,
-                    "7": 1,
-                    "9": 1,
-                    "12": 2,
-                    "365": 1
+                    "1": 60,
+                    "2": 14,
+                    "3": 12,
+                    "4": 13,
+                    "5": 8,
+                    "6": 5,
+                    "7": 13,
+                    "8": 1,
+                    "9": 2,
+                    "10": 1,
+                    "11": 1,
+                    "12": 3,
+                    "365": 2
                 }
             }
         },
@@ -1024,6 +1032,7 @@
             "origin": "gond",
             "source": "https://themythologyproject.com/the-crow-the-crab-and-the-earthworm/",
             "title": "gond",
+            "time": null,
             "country": "india",
             "stats": {
                 "numbers": {
@@ -1057,6 +1066,7 @@
             "origin": "greek",
             "source": "https://themythologyproject.com/the-crow-the-crab-and-the-earthworm/",
             "title": "pelasgian",
+            "time": null,
             "country": "greece",
             "stats": {
                 "numbers": {
@@ -2984,7 +2994,7 @@
             }
         },
         {
-            "id": 208,
+            "id": 207,
             "origin": "zoroastrian",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "bundahishn",
@@ -3050,7 +3060,7 @@
             }
         },
         {
-            "id": 209,
+            "id": 208,
             "origin": "zulu",
             "source": "A Dictionary of Creation Myths, Leeming",
             "title": "zulu",
@@ -3062,7 +3072,7 @@
             }
         },
         {
-            "id": 210,
+            "id": 209,
             "origin": "zuni",
             "source": "https://www.billstifler.org/myth/files/2D-001-06-zuni_creation.htm",
             "title": "zuni",
